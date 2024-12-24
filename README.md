@@ -1,4 +1,5 @@
 # University Recommendation System
+Sistem Rekomendasi Universitas Pascasarjana
 
 ## Data
 Data mahasiswa pascasarjana diambil dari [Kaggle University Recommendation Dataset](https://www.kaggle.com/datasets/nitishabharathi/university-recommendation/data).
